@@ -1,0 +1,15 @@
+{
+    "name": "dead4w/app",
+    "autoload": {
+        "psr-4": {
+            "Dead4w\\App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Zedgenizov Ilya",
+            "email": "izedgenizov@saber.games"
+        }
+    ],
+    "require": {}
+}
